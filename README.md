@@ -10,24 +10,24 @@
 
 - *cloner le dépôt Git :*
     
-    git clone https://github.com/jibouz12/cine.git
+         git clone https://github.com/jibouz12/cine.git
     
 - *Copier/Coller le fichier .env.example dans un nouveau fichier .env puis ajouter la clé suivante  :*
 
-    APP_KEY=base64:GwU0dKft0sTAbAY30r5ZURdQNpw+lPYIsA0EThLUl24=
+         APP_KEY=base64:GwU0dKft0sTAbAY30r5ZURdQNpw+lPYIsA0EThLUl24=
     
 - *Se déplacer dans le dossier "cine" puis tapper les commandes suivantes :*
 
-    composer install
+         composer install
 
-    npm install
+         npm install
 
-    npm run dev
+         npm run dev
 
 
 - *Dans un autre terminal, se déplacer dans le dossier "cine" et tapper la commande suivante :*
 
-    php artisan serve
+         php artisan serve
         
         
          
